@@ -1,0 +1,202 @@
+[
+	{
+		"average_fps": 60.0667627707122,
+		"godot_static_heap_bytes": 140275858,
+		"median_frame_ms": 16.6666666666667,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 376.0,
+		"render_video_memory_bytes": 87213440.0,
+		"samples": 481,
+		"screen": "menu",
+		"viewport_pixels": [
+			1240,
+			1698
+		],
+		"visible_arrow_count": 348,
+		"window_seconds": 8.00775633333331
+	},
+	{
+		"average_fps": 60.0012723762545,
+		"godot_static_heap_bytes": 140277190,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 376.0,
+		"render_video_memory_bytes": 87213440.0,
+		"samples": 481,
+		"screen": "menu",
+		"viewport_pixels": [
+			1240,
+			1698
+		],
+		"visible_arrow_count": 348,
+		"window_seconds": 8.01649666666662
+	},
+	{
+		"average_fps": 60.0024000960042,
+		"godot_static_heap_bytes": 140278442,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 376.0,
+		"render_video_memory_bytes": 87213440.0,
+		"samples": 481,
+		"screen": "menu",
+		"viewport_pixels": [
+			1240,
+			1698
+		],
+		"visible_arrow_count": 348,
+		"window_seconds": 8.01634599999995
+	},
+	{
+		"average_fps": 60.0024000960042,
+		"godot_static_heap_bytes": 140279718,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 376.0,
+		"render_video_memory_bytes": 87213440.0,
+		"samples": 481,
+		"screen": "menu",
+		"viewport_pixels": [
+			1240,
+			1698
+		],
+		"visible_arrow_count": 348,
+		"window_seconds": 8.01634599999995
+	},
+	{
+		"average_fps": 60.0000000000002,
+		"godot_static_heap_bytes": 145687905,
+		"median_frame_ms": 16.6666666666667,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 9.0,
+		"render_video_memory_bytes": 136779264.0,
+		"samples": 481,
+		"screen": "daily",
+		"viewport_pixels": [
+			1240,
+			2198
+		],
+		"visible_arrow_count": 0,
+		"window_seconds": 8.01666666666664
+	},
+	{
+		"average_fps": 60.0000000000002,
+		"godot_static_heap_bytes": 145689205,
+		"median_frame_ms": 16.6666666666667,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 9.0,
+		"render_video_memory_bytes": 136779264.0,
+		"samples": 481,
+		"screen": "daily",
+		"viewport_pixels": [
+			1240,
+			2198
+		],
+		"visible_arrow_count": 0,
+		"window_seconds": 8.01666666666664
+	},
+	{
+		"average_fps": 60.0000000000002,
+		"godot_static_heap_bytes": 145690529,
+		"median_frame_ms": 16.6666666666667,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 9.0,
+		"render_video_memory_bytes": 136779264.0,
+		"samples": 481,
+		"screen": "daily",
+		"viewport_pixels": [
+			1240,
+			2198
+		],
+		"visible_arrow_count": 0,
+		"window_seconds": 8.01666666666664
+	},
+	{
+		"average_fps": 60.0000000000002,
+		"godot_static_heap_bytes": 145691781,
+		"median_frame_ms": 16.6666666666667,
+		"p95_frame_ms": 16.6666666666667,
+		"render_draw_calls": 9.0,
+		"render_video_memory_bytes": 136779264.0,
+		"samples": 481,
+		"screen": "daily",
+		"viewport_pixels": [
+			1240,
+			2198
+		],
+		"visible_arrow_count": 0,
+		"window_seconds": 8.01666666666664
+	},
+	{
+		"arrows": 355,
+		"average_fps": 60.0648400572797,
+		"board_size": 25,
+		"godot_static_heap_bytes": 149251013,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 381.0,
+		"render_video_memory_bytes": 136243200.0,
+		"samples": 481,
+		"screen": "game",
+		"viewport_pixels": [
+			1240,
+			2124
+		],
+		"visible_arrow_count": 355,
+		"window_seconds": 8.00801266666662
+	},
+	{
+		"arrows": 355,
+		"average_fps": 60.0024000960042,
+		"board_size": 25,
+		"godot_static_heap_bytes": 149252489,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 381.0,
+		"render_video_memory_bytes": 136243200.0,
+		"samples": 481,
+		"screen": "game",
+		"viewport_pixels": [
+			1240,
+			2124
+		],
+		"visible_arrow_count": 355,
+		"window_seconds": 8.01634599999995
+	},
+	{
+		"arrows": 355,
+		"average_fps": 60.0024000960042,
+		"board_size": 25,
+		"godot_static_heap_bytes": 149253869,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 381.0,
+		"render_video_memory_bytes": 136243200.0,
+		"samples": 481,
+		"screen": "game",
+		"viewport_pixels": [
+			1240,
+			2124
+		],
+		"visible_arrow_count": 355,
+		"window_seconds": 8.01634599999995
+	},
+	{
+		"arrows": 355,
+		"average_fps": 60.0024000960042,
+		"board_size": 25,
+		"godot_static_heap_bytes": 149255249,
+		"median_frame_ms": 16.666,
+		"p95_frame_ms": 16.666,
+		"render_draw_calls": 381.0,
+		"render_video_memory_bytes": 136243200.0,
+		"samples": 481,
+		"screen": "game",
+		"viewport_pixels": [
+			1240,
+			2124
+		],
+		"visible_arrow_count": 355,
+		"window_seconds": 8.01634599999995
+	}
+]

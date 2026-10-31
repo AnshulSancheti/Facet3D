@@ -1,0 +1,51 @@
+{
+	"accepted": 1000,
+	"attempts": 1188,
+	"average_generation_usec": 37165.984,
+	"generation_failures": [],
+	"generator_version": "facet-edge-2.0.0",
+	"invalid_generations": 0,
+	"maximum_generation_usec": 244075,
+	"samples": 1000,
+	"solver_failures": 0,
+	"success_rate": 1.0,
+	"tiers": [
+		{
+			"accepted": 200,
+			"density_max": 0.649659863945578,
+			"density_min": 0.571428571428571,
+			"long_fraction_total": 0.0,
+			"tier": 0
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.748971193415638,
+			"density_min": 0.672839506172839,
+			"long_fraction_total": 61.7298580656244,
+			"tier": 1
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.819559228650138,
+			"density_min": 0.769972451790634,
+			"long_fraction_total": 53.2657392725023,
+			"tier": 2
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.869822485207101,
+			"density_min": 0.819526627218935,
+			"long_fraction_total": 56.2018705721527,
+			"tier": 3
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.899259259259259,
+			"density_min": 0.86962962962963,
+			"long_fraction_total": 64.8501688337195,
+			"tier": 4
+		}
+	],
+	"total_generation_usec": 37165984,
+	"worst_solver_states": 182
+}

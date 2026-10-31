@@ -1,0 +1,16 @@
+# Draft Data Safety inventory — must be reviewed before submission
+
+Local game save stores progression, settings, best times, hints and daily results in Godot user storage. Local analytics logs gameplay/ad events. No backend, compulsory account, cloud analytics provider, purchase system or external analytics transport is configured. Local-only does not automatically mean an APK with an advertising SDK collects nothing.
+
+| Component | Data/use to review | Sharing/retention/control |
+|---|---|---|
+| Game save | Levels, timing, preferences, hints, daily dates, aggregate statistics; gameplay functionality | Remains on device by application code; clearing app data removes it; Android backup disabled in presets |
+| Local event logger | Gameplay/ad event names and timestamps; product diagnostics | No remote transport configured; inspect implementation/log rotation and release build behavior |
+| Google GMA Next-Gen1.4.0 via Poing5.1.0 | IP/general location, interactions, diagnostic information, device/account identifiers depending SDK/config; advertising, analytics and fraud prevention | SDK-managed network sharing/retention; consent/limited ads/ID controls affect behavior; owner must assess actual configured SDK |
+| UMP | Consent choices and SDK consent/device metadata | Google-managed flow; expose required privacy options; review Google documentation and regional behavior |
+
+Reference the exact [Next-Gen Google Play disclosure](https://developers.google.com/admob/android/next-gen/privacy/play-data-disclosure), [Google privacy policy](https://policies.google.com/privacy), and [UMP guidance](https://developers.google.com/admob/android/privacy). Latest online disclosures may describe a newer SDK than pinned1.4.0; confirm version-specific behavior. Do not copy legacy SDK declarations unquestioningly.
+
+Open checklist: inventory final transitive dependencies and manifest permissions/providers; determine actual collection/sharing categories and purposes; review TLS assertions and retention with Google disclosures; evaluate consent/optional collection and user controls; assess data deletion requests and developer contact; confirm audience and child-directed/age flags; inspect authorized-device traffic with ads disabled/enabled; verify declarations match actual shipping configuration. Do not submit this draft as a final legal declaration.
+
+Final debug APK manifest inspected2026-10-22: INTERNET, VIBRATE, ACCESS_NETWORK_STATE, READ_BASIC_PHONE_STATE, com.google.android.gms.permission.AD_ID, WAKE_LOCK, FOREGROUND_SERVICE, app-specific nonexported dynamic-receiver permission, and a redundant nonstandard android.permission.AD_ID declared by the Poing ads AAR. READ_BASIC_PHONE_STATE originates directly from GMA Next-Gen1.4.0, whose manifest labels its permission group required. WAKE_LOCK/FOREGROUND_SERVICE originate from transitive AndroidX WorkManager2.7.0. Gameplay implements no telephony or foreground service feature. Vendor compatibility must be evaluated before changing these declarations. The [official Google SDK issue4092](https://github.com/googleads/googleads-mobile-unity/issues/4092) remains unresolved concerning the inherited foreground-service declaration. This is a release-review blocker, not proof the service is ever started by this build.

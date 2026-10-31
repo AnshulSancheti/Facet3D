@@ -1,0 +1,929 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:2:1-48:12
+MERGED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:2:1-33:12
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:2:1-44:12
+MERGED from [poing-godot-admob-core-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/b0503becce5f666ac9d6202fd786dbb6/transformed/jetified-poing-godot-admob-core-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:2:1-62:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/78126379279a77c4cd9a07a8058a2193/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e6578ab8f60ecc5c36e1042b14d4b161/transformed/jetified-play-services-cronet-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2c022db15be68fdd5f8c7635bcdfc165/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.ump:user-messaging-platform:4.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe945da72556388e1562d961288e5e46/transformed/jetified-user-messaging-platform-4.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/753b30babe294400290a7b5584d7a6bd/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/831689572d52696580ae6c46ae526358/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.6] /home/intelligentape/.gradle/caches/8.11.1/transforms/cf7f8664706a4c679e789b1fcecabd67/transformed/fragment-1.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/11a1a2716d3400c344f11017e9cc0e0c/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a029e9219969bb1e2aa1ac5105da154b/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1afd2c19949c46dd1f38ff16eda356f0/transformed/documentfile-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2261fda47f325d2263f380b44d38bcea/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe8b35ef21a1bc63dc27b7722f9d4d2b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c3e54e553df3bb9ae770707f9b07d89/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/71b33f48bea7dbf2c4de55f661a2c436/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e4ced102158056a7628295db0403b65f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/2549439206a624270276b1a27e983160/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/12c57944fe83e44f44d3e8d956179bfc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a804d1e2161deb2cab819b33b0360eee/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a6c0cff515299e3e9fb6eacf33bc7592/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/bedf2405ce23183c76ebe67490da4ddb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.8.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/e32a0f04878913dd235ff334283f8366/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.15.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/49f855e6c98c0af641c9b9358c330892/transformed/webkit-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/7687a0f360d8125bfce31954d8e6c824/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/083a0b915594a4670efd4a9f5304bc1c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/32dbd6fe3f170d651d7128fdc4757fd7/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f894092b2f628badcb62afc620679ce6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/4fac9ebad9006216c9d68f55e4c91941/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d5e4fb927feb4b586f55aa0aa105ab2/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/672c33d4c163132a1c2a7b2799bf00d3/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/d46170a0438458261c1f07036aa87218/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/03547cddf659c1c7273e4776021b4a67/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ea96401c5dc9b16e8f9fa91199ae5260/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/402c042a2649a64ed9128ba23595fd21/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ec64fba6110018113d066d9305d182a8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d03a3bd779afd8d0ab53c3a9b742f39/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2dd4b1ae238be40926335fb2c08371b8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:15:2-22:13
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:15:2-22:13
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:15:2-22:13
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:15:2-22:13
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:15:2-22:13
+	package
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:5:5-30
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:4:5-28
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:6:5-35
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:6:5-35
+supports-screens
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:8:5-12:40
+REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:8:5-12:40
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:5:9-29
+	android:largeScreens
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:9:9-36
+	android:normalScreens
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:12:9-37
+uses-feature#0x00030000
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:14:5-16:35
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:14:5-16:35
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:14:5-16:35
+	android:glEsVersion
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:15:9-41
+	android:required
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:16:9-32
+application
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:18:5-55:19
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:18:5-55:19
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:18:5-55:19
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:15:5-47:19
+MERGED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:9:5-31:19
+MERGED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:9:5-31:19
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:11:5-42:19
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:11:5-42:19
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:53:5-60:19
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:53:5-60:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/78126379279a77c4cd9a07a8058a2193/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/78126379279a77c4cd9a07a8058a2193/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e6578ab8f60ecc5c36e1042b14d4b161/transformed/jetified-play-services-cronet-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e6578ab8f60ecc5c36e1042b14d4b161/transformed/jetified-play-services-cronet-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2c022db15be68fdd5f8c7635bcdfc165/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2c022db15be68fdd5f8c7635bcdfc165/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/753b30babe294400290a7b5584d7a6bd/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/753b30babe294400290a7b5584d7a6bd/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/d46170a0438458261c1f07036aa87218/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/d46170a0438458261c1f07036aa87218/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+	android:extractNativeLibs
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:25:9-53
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:25:9-53
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:19:9-58
+	android:appCategory
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:22:9-35
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:22:9-35
+	tools:ignore
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:26:9-48
+	android:icon
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:21:9-36
+	android:allowBackup
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:20:9-36
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:20:9-36
+	tools:replace
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:22:9-143
+	android:isGame
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:23:9-30
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:23:9-30
+	android:hasFragileUserData
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:24:9-43
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:24:9-43
+profileable
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:27:9-30:36
+	android:enabled
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:29:13-35
+	android:shell
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:28:13-33
+	tools:targetApi
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:30:13-33
+activity#com.godot.game.GodotApp
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:32:9-43:46
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:32:9-43:46
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:32:9-43:46
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:34:140-172
+	android:excludeFromRecents
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:36:13-47
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:36:13-47
+	android:launchMode
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:35:13-55
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:35:13-55
+	android:windowSoftInputMode
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:40:13-55
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:40:13-55
+	android:exported
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:37:13-37
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:37:13-37
+	tools:ignore
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:43:13-43
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:43:13-43
+	android:configChanges
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:41:13-164
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:41:13-164
+	android:screenOrientation
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:39:13-50
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:39:13-50
+	android:supportsPictureInPicture
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:38:13-52
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:38:13-52
+	android:resizeableActivity
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:42:13-47
+		REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:42:13-47
+	android:theme
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:34:13-55
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:34:13-55
+	tools:replace
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:34:44-139
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:33:13-37
+activity-alias#com.godot.game.GodotAppLauncher
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:44:9-53:26
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:44:9-53:26
+MERGED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:44:9-53:26
+REJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:48:13-52:29
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:37:13-45
+	android:exported
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:47:13-36
+	android:targetActivity
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:46:13-47
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:45:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:50:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/main/AndroidManifest.xml:51:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:11:5-67
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:9:5-67
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:9:5-67
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:19:6-67
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:12:22-63
+uses-feature#android.hardware.vulkan.level
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:13:5-132
+	android:version
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:13:110-129
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:13:19-39
+	android:required
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:13:85-109
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:13:40-84
+uses-feature#android.hardware.vulkan.version
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:14:5-141
+	android:version
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:14:112-138
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:14:19-39
+	android:required
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:14:87-111
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:14:40-86
+meta-data#org.godotengine.rendering.method
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:25:9-114
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:25:20-40
+	android:value
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:25:89-111
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:25:41-88
+meta-data#org.godotengine.editor.version
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:26:9-118
+	tools:node
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:26:20-40
+	android:value
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:26:87-115
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:26:41-86
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:29:2-31:59
+	android:value
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:31:3-57
+	android:name
+		ADDED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml:30:3-59
+uses-sdk
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+MERGED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:7:5-44
+MERGED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:7:5-44
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:5:5-44
+MERGED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:5:5-44
+MERGED from [poing-godot-admob-core-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/b0503becce5f666ac9d6202fd786dbb6/transformed/jetified-poing-godot-admob-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [poing-godot-admob-core-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/b0503becce5f666ac9d6202fd786dbb6/transformed/jetified-poing-godot-admob-core-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/78126379279a77c4cd9a07a8058a2193/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/78126379279a77c4cd9a07a8058a2193/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e6578ab8f60ecc5c36e1042b14d4b161/transformed/jetified-play-services-cronet-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e6578ab8f60ecc5c36e1042b14d4b161/transformed/jetified-play-services-cronet-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2c022db15be68fdd5f8c7635bcdfc165/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2c022db15be68fdd5f8c7635bcdfc165/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:4.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe945da72556388e1562d961288e5e46/transformed/jetified-user-messaging-platform-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:4.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe945da72556388e1562d961288e5e46/transformed/jetified-user-messaging-platform-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/753b30babe294400290a7b5584d7a6bd/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/753b30babe294400290a7b5584d7a6bd/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/831689572d52696580ae6c46ae526358/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/831689572d52696580ae6c46ae526358/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.6] /home/intelligentape/.gradle/caches/8.11.1/transforms/cf7f8664706a4c679e789b1fcecabd67/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.6] /home/intelligentape/.gradle/caches/8.11.1/transforms/cf7f8664706a4c679e789b1fcecabd67/transformed/fragment-1.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/11a1a2716d3400c344f11017e9cc0e0c/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/11a1a2716d3400c344f11017e9cc0e0c/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a029e9219969bb1e2aa1ac5105da154b/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a029e9219969bb1e2aa1ac5105da154b/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1afd2c19949c46dd1f38ff16eda356f0/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1afd2c19949c46dd1f38ff16eda356f0/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2261fda47f325d2263f380b44d38bcea/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2261fda47f325d2263f380b44d38bcea/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe8b35ef21a1bc63dc27b7722f9d4d2b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fe8b35ef21a1bc63dc27b7722f9d4d2b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c3e54e553df3bb9ae770707f9b07d89/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c3e54e553df3bb9ae770707f9b07d89/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/71b33f48bea7dbf2c4de55f661a2c436/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/71b33f48bea7dbf2c4de55f661a2c436/transformed/jetified-lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e4ced102158056a7628295db0403b65f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/e4ced102158056a7628295db0403b65f/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/2549439206a624270276b1a27e983160/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/2549439206a624270276b1a27e983160/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/12c57944fe83e44f44d3e8d956179bfc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/12c57944fe83e44f44d3e8d956179bfc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a804d1e2161deb2cab819b33b0360eee/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a804d1e2161deb2cab819b33b0360eee/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a6c0cff515299e3e9fb6eacf33bc7592/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/a6c0cff515299e3e9fb6eacf33bc7592/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/bedf2405ce23183c76ebe67490da4ddb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/bedf2405ce23183c76ebe67490da4ddb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/e32a0f04878913dd235ff334283f8366/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/e32a0f04878913dd235ff334283f8366/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.15.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/49f855e6c98c0af641c9b9358c330892/transformed/webkit-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.15.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/49f855e6c98c0af641c9b9358c330892/transformed/webkit-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/7687a0f360d8125bfce31954d8e6c824/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/7687a0f360d8125bfce31954d8e6c824/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/083a0b915594a4670efd4a9f5304bc1c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/083a0b915594a4670efd4a9f5304bc1c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/32dbd6fe3f170d651d7128fdc4757fd7/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/32dbd6fe3f170d651d7128fdc4757fd7/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f894092b2f628badcb62afc620679ce6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f894092b2f628badcb62afc620679ce6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/4fac9ebad9006216c9d68f55e4c91941/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/4fac9ebad9006216c9d68f55e4c91941/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d5e4fb927feb4b586f55aa0aa105ab2/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d5e4fb927feb4b586f55aa0aa105ab2/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/672c33d4c163132a1c2a7b2799bf00d3/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/672c33d4c163132a1c2a7b2799bf00d3/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/d46170a0438458261c1f07036aa87218/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/d46170a0438458261c1f07036aa87218/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/03547cddf659c1c7273e4776021b4a67/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/03547cddf659c1c7273e4776021b4a67/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ea96401c5dc9b16e8f9fa91199ae5260/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ea96401c5dc9b16e8f9fa91199ae5260/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/402c042a2649a64ed9128ba23595fd21/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/402c042a2649a64ed9128ba23595fd21/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ec64fba6110018113d066d9305d182a8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ec64fba6110018113d066d9305d182a8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d03a3bd779afd8d0ab53c3a9b742f39/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8d03a3bd779afd8d0ab53c3a9b742f39/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2dd4b1ae238be40926335fb2c08371b8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/2dd4b1ae238be40926335fb2c08371b8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:18:6-75
+	android:targetSdkVersion
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/intelligentape/Projects/Facet3D/android/build/src/debug/AndroidManifest.xml
+meta-data#org.godotengine.library.version
+ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:12:9-14:44
+	android:value
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:14:13-41
+	android:name
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:13:13-59
+activity#org.godotengine.godot.utils.ProcessPhoenix
+ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:16:9-20:75
+	android:process
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:19:13-39
+	android:exported
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:17:13-70
+provider#androidx.core.content.FileProvider
+ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:22:9-30:20
+	android:grantUriPermissions
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:26:13-47
+	android:authorities
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:24:13-64
+	android:exported
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:23:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:27:13-29:64
+	android:resource
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:29:17-61
+	android:name
+		ADDED from [godot-lib.template_debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/bf69f1a76b5589b49b35a7867bc9dbd9/transformed/jetified-godot-lib.template_debug/AndroidManifest.xml:28:17-67
+uses-permission#android.permission.AD_ID
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:7:22-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:10:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-fallback:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/1840fc22fd0d52202611a26a16992b16/transformed/jetified-cronet-fallback-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:httpengine-native-provider:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/72ae95695f7cb8bfac9ff613fa8b8600/transformed/jetified-httpengine-native-provider-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-common:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/35c44dac393440dc5059507a2891da18/transformed/jetified-cronet-common-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8c61ee4154584e252fbc17ea05360c81/transformed/jetified-cronet-api-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-shared:143.7445.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/3dbc7a52f387c22009f13543b4e8545c/transformed/jetified-cronet-shared-143.7445.0/AndroidManifest.xml:20:6-79
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:8:22-76
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMob
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:12:9-14:80
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:14:13-77
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:13:13-69
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobAdView
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:15:9-17:86
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:17:13-83
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:16:13-75
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobAdSize
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:18:9-20:86
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:20:13-83
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:19:13-75
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobInterstitialAd
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:21:9-23:94
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:23:13-91
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:22:13-83
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobRewardedAd
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:24:9-26:90
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:26:13-87
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:25:13-79
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobRewardedInterstitialAd
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:27:9-29:102
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:29:13-99
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:28:13-91
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobConsentInformation
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:30:9-32:98
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:32:13-95
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:31:13-87
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobUserMessagingPlatform
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:33:9-35:101
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:35:13-98
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:34:13-90
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobAppOpenAd
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:36:9-38:89
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:38:13-86
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:37:13-78
+meta-data#org.godotengine.plugin.v2.PoingGodotAdMobNativeOverlayAd
+ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:39:9-41:95
+	android:value
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:41:13-92
+	android:name
+		ADDED from [poing-godot-admob-ads-debug.aar] /home/intelligentape/.gradle/caches/8.11.1/transforms/658404e4b923b71599f85b8d27078c30/transformed/jetified-poing-godot-admob-ads-debug/AndroidManifest.xml:40:13-84
+uses-permission#android.permission.READ_BASIC_PHONE_STATE
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:11:22-78
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/8b524940f304b52e44feddddb9ee4dc1/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:13:5-15:31
+REJECTED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+	tools:node
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:15:9-28
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:14:9-65
+queries
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:18:5-51:15
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:7:5-9:15
+MERGED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:7:5-9:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:21:9-27:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:22:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:24:23-71
+data
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:26:13-44
+	android:scheme
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:26:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:30:9-32:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:31:13-90
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:31:21-87
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.dir/event
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:35:9-39:18
+action#android.intent.action.INSERT
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:36:21-64
+intent#action:name:android.intent.action.VIEW+data:scheme:sms
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:40:9-44:18
+intent#action:name:android.intent.action.DIAL+data:path:tel:
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:45:9-49:18
+action#android.intent.action.DIAL
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:46:13-65
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:46:21-62
+activity#com.google.android.libraries.ads.mobile.sdk.common.AdActivity
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:54:9-59:43
+	android:exported
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:59:13-40
+	android:configChanges
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:56:13-122
+	android:theme
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:58:13-57
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/ed4e1c185063c6f518283912cd1c2ff8/transformed/jetified-ads-mobile-sdk-1.4.0/AndroidManifest.xml:55:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/0f8c475fc8b8c25726daaf15dff99ad1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+package#com.android.vending
+ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:8:9-55
+	android:name
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:8:18-52
+activity#com.google.android.play.core.hsdp.service.HsdpShimActivity
+ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:12:9-19:20
+	android:excludeFromRecents
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:15:13-46
+	android:launchMode
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:17:13-43
+	android:exported
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:16:13-37
+	android:configChanges
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:14:13-87
+	android:theme
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:18:13-64
+	android:name
+		ADDED from [com.google.android.play:hsdp:2.0.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/43922c2dba89df53b8eefc8b2b3e3ec7/transformed/jetified-hsdp-2.0.1/AndroidManifest.xml:13:13-86
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/f3cb36a1db31d19a09e92f605e7e667f/transformed/jetified-play-services-basement-18.9.0/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/intelligentape/.gradle/caches/8.11.1/transforms/5b635a3c27fcfd4154ffaab5ad9bc267/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/0d193156e2aaf28b6f7800cf48e95373/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.yourstudio.facetescape3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.yourstudio.facetescape3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/9c31176a946dbe6498cf3070b3804333/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/intelligentape/.gradle/caches/8.11.1/transforms/fb226b90d4778d187e1564dc8048e578/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/intelligentape/.gradle/caches/8.11.1/transforms/e283ad7ca7e7ab1119de0d623d79385f/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

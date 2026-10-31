@@ -1,0 +1,14 @@
+{
+  "mode": "disabled",
+  "android_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "interstitial_cooldown_seconds": 180,
+  "interstitial_level_frequency": 4,
+  "ad_free_first_levels": 5,
+  "audience_reviewed": false,
+  "tag_for_child_directed_treatment": -1,
+  "tag_for_under_age_of_consent": -1,
+  "ump_under_age_of_consent": false,
+  "max_ad_content_rating": "G"
+}

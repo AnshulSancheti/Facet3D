@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-22",
+  "version": "0.2.1",
+  "version_code": 3,
+  "ruleset": "face_edge_snake_v2",
+  "generator_version": "facet-edge-2.1.0",
+  "latest_apk_sha256": "1366e20cff8ae98aed1fb4a368fc3f2a192e4542b12f8cf639cdbd547f48706f",
+  "latest_apk": "/home/intelligentape/Projects/Facet3D/release/builds/facet-escape-3d-debug.apk",
+  "latest_native_resolution_build_installed": true,
+  "installation_blocker": null,
+  "device_model": "CPH2487",
+  "android_version": 16,
+  "api_level": 36,
+  "gpu": "Adreno 730",
+  "current_campaign_preserved": true,
+  "original_archive_exact_bytes_verified": true,
+  "static_audit_passed": true,
+  "device_gameplay": {
+    "size": 25,
+    "arrows": 355,
+    "visible_arrows": 355,
+    "viewport_pixels": [
+      1240,
+      2124
+    ],
+    "fps_short_samples": [
+      59.6,
+      60.0
+    ],
+    "p95_frame_ms": 16.67,
+    "pss_kb": 412920,
+    "caveat": "Short debug samples include idle and a drag; not a sustained thermal or low-end-device benchmark."
+  },
+  "log_script_errors_or_fatal_exceptions": false,
+  "campaign_difficulty_report": "release/verification/difficulty-v21-campaign.json",
+  "performance_report": "release/verification/difficulty-v21-device-performance.json",
+  "stress_report": "tests/generation/edge_v21_stress_results.json",
+  "stress_accepted": 1000,
+  "stress_generation_failures": 0,
+  "stress_invalid_generations": 0,
+  "stress_solver_failures": 0
+}

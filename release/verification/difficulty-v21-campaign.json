@@ -1,0 +1,105 @@
+{
+  "generator_version": "facet-edge-2.1.0",
+  "tiers": [
+    {
+      "levels": [
+        6,
+        20
+      ],
+      "grid": 9,
+      "arrows_min": 58,
+      "arrows_max": 71,
+      "initial_moves_min": 1,
+      "initial_moves_max": 4,
+      "initial_fraction_max": 0.0634920634920635,
+      "dependency_depth_min": 19,
+      "dependency_depth_max": 45,
+      "density_min": 0.574074074074074,
+      "density_max": 0.648148148148148,
+      "previous_average_initial_fraction": 0.6372781819088952,
+      "new_average_initial_fraction": 0.0298982629642658,
+      "previous_average_dependency_depth": 2.3333333333333335,
+      "new_average_dependency_depth": 32.06666666666667
+    },
+    {
+      "levels": [
+        21,
+        40
+      ],
+      "grid": 13,
+      "arrows_min": 101,
+      "arrows_max": 134,
+      "initial_moves_min": 1,
+      "initial_moves_max": 9,
+      "initial_fraction_max": 0.0789473684210526,
+      "dependency_depth_min": 25,
+      "dependency_depth_max": 67,
+      "density_min": 0.67258382642998,
+      "density_max": 0.748520710059172,
+      "previous_average_initial_fraction": 0.5728971234489142,
+      "new_average_initial_fraction": 0.034919823887596714,
+      "previous_average_dependency_depth": 3,
+      "new_average_dependency_depth": 47.4
+    },
+    {
+      "levels": [
+        41,
+        60
+      ],
+      "grid": 17,
+      "arrows_min": 189,
+      "arrows_max": 221,
+      "initial_moves_min": 2,
+      "initial_moves_max": 14,
+      "initial_fraction_max": 0.0660377358490566,
+      "dependency_depth_min": 54,
+      "dependency_depth_max": 114,
+      "density_min": 0.769896193771626,
+      "density_max": 0.817762399077278,
+      "previous_average_initial_fraction": 0.5499094743882198,
+      "new_average_initial_fraction": 0.03393449753119974,
+      "previous_average_dependency_depth": 4,
+      "new_average_dependency_depth": 71.45
+    },
+    {
+      "levels": [
+        61,
+        80
+      ],
+      "grid": 21,
+      "arrows_min": 266,
+      "arrows_max": 303,
+      "initial_moves_min": 1,
+      "initial_moves_max": 13,
+      "initial_fraction_max": 0.0451388888888889,
+      "dependency_depth_min": 63,
+      "dependency_depth_max": 131,
+      "density_min": 0.820861678004535,
+      "density_max": 0.868480725623583,
+      "previous_average_initial_fraction": 0.506126613772783,
+      "new_average_initial_fraction": 0.025932526610377846,
+      "previous_average_dependency_depth": 4.4,
+      "new_average_dependency_depth": 90.55
+    },
+    {
+      "levels": [
+        81,
+        100
+      ],
+      "grid": 25,
+      "arrows_min": 339,
+      "arrows_max": 379,
+      "initial_moves_min": 1,
+      "initial_moves_max": 13,
+      "initial_fraction_max": 0.0375722543352601,
+      "dependency_depth_min": 80,
+      "dependency_depth_max": 137,
+      "density_min": 0.804,
+      "density_max": 0.825866666666667,
+      "previous_average_initial_fraction": 0.4827354157113634,
+      "new_average_initial_fraction": 0.02371350612563108,
+      "previous_average_dependency_depth": 5.15,
+      "new_average_dependency_depth": 101.7
+    }
+  ]
+}

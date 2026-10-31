@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "Godot_v4.7.2-stable_export_templates.tpz",
+    "sha256": "f298490b8d44d934be425a5a65a51bf15f422428b229a06a6e11d9ffea248011",
+    "release_digest": "sha256:f298490b8d44d934be425a5a65a51bf15f422428b229a06a6e11d9ffea248011",
+    "matches": true
+  },
+  {
+    "asset": "android-template-v4.7.2.zip",
+    "sha256": "f7fdf644d50c0e231d8f02ae044057e489d0bcafcf50e908a4858477e7ee05ee",
+    "release_digest": "sha256:f7fdf644d50c0e231d8f02ae044057e489d0bcafcf50e908a4858477e7ee05ee",
+    "matches": true
+  },
+  {
+    "asset": "poing-godot-admob-v5.1.0.zip",
+    "sha256": "8c53ff52719edf6a81cc7d32a9cdaad2d9e11693c85faca25008a1c19355726f",
+    "release_digest": "sha256:8c53ff52719edf6a81cc7d32a9cdaad2d9e11693c85faca25008a1c19355726f",
+    "matches": true
+  }
+]

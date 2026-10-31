@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-22",
+  "version": "0.2.2",
+  "version_code": 4,
+  "ruleset": "face_edge_snake_v2",
+  "generator_version": "facet-edge-2.1.0",
+  "latest_apk_sha256": "093afd358c43c5439481be8b5c77328343c031d3796e0908ee2e2a2fa49bfe15",
+  "latest_native_resolution_build_installed": true,
+  "device_model": "CPH2487",
+  "android_version": 16,
+  "api_level": 36,
+  "static_audit_passed": true,
+  "automated_logic_checks": 196431,
+  "automated_grid_picks": 3750,
+  "in_progress_daily_restart_explicitly_approved": true,
+  "prior_version_evidence": "release/verification/difficulty-v21-device-status.json",
+  "changes": [
+    "Sharp cube geometry and hard normals",
+    "Contrasting face rim and face tones",
+    "Arrow body width reduced 29.63 percent",
+    "Arrowhead span reduced 21.43 percent",
+    "Arrowhead stroke reduced 17.90 percent",
+    "Matching thin removal animation"
+  ],
+  "home_and_daily_visually_inspected": true,
+  "campaign_hints_and_preferences_preserved": true,
+  "device_gameplay": {
+    "size": 25,
+    "visible_arrows": 355,
+    "viewport_pixels": [
+      1240,
+      2124
+    ],
+    "short_sample_fps": 60.0,
+    "p95_frame_ms": 16.666,
+    "caveat": "Eight-second debug sample, not sustained thermal testing"
+  },
+  "performance_report": "release/verification/sharp-v22-device-performance.json",
+  "screenshots": "release/screenshots/sharp-v22/"
+}

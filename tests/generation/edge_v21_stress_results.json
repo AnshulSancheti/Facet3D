@@ -1,0 +1,61 @@
+{
+	"accepted": 1000,
+	"attempts": 1683,
+	"average_generation_usec": 406450.991,
+	"generation_failures": [],
+	"generator_version": "facet-edge-2.1.0",
+	"invalid_generations": 0,
+	"maximum_generation_usec": 5343733,
+	"samples": 1000,
+	"solver_failures": 0,
+	"success_rate": 1.0,
+	"tiers": [
+		{
+			"accepted": 200,
+			"density_max": 0.648148148148148,
+			"density_min": 0.569958847736626,
+			"dependency_depth_min": 12,
+			"initial_fraction_max": 0.129032258064516,
+			"long_fraction_total": 0.0,
+			"tier": 0
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.749506903353057,
+			"density_min": 0.671597633136095,
+			"dependency_depth_min": 28,
+			"initial_fraction_max": 0.0964912280701754,
+			"long_fraction_total": 71.4313300130513,
+			"tier": 1
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.819492502883506,
+			"density_min": 0.769896193771626,
+			"dependency_depth_min": 41,
+			"initial_fraction_max": 0.0696517412935323,
+			"long_fraction_total": 67.5379024271502,
+			"tier": 2
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.866213151927438,
+			"density_min": 0.820483749055178,
+			"dependency_depth_min": 60,
+			"initial_fraction_max": 0.05,
+			"long_fraction_total": 78.3845752741016,
+			"tier": 3
+		},
+		{
+			"accepted": 200,
+			"density_max": 0.8296,
+			"density_min": 0.8,
+			"dependency_depth_min": 80,
+			"initial_fraction_max": 0.04,
+			"long_fraction_total": 86.0923730280869,
+			"tier": 4
+		}
+	],
+	"total_generation_usec": 406450991,
+	"worst_solver_states": 395
+}

@@ -1,0 +1,61 @@
+{
+	"average_generation_ms": 39.108842,
+	"candidate_attempts": 39460,
+	"engine": "4.7.2-stable (official)",
+	"failure_diagnostics": [],
+	"generation_attempts": 1000,
+	"generator_version": "facet-cube-1.0.0",
+	"invalid_generations": 0,
+	"maximum_generation_ms": 126.274,
+	"samples": 1000,
+	"solver_outcomes": {
+		"other": 0,
+		"solved": 1000
+	},
+	"success_rate": 1.0,
+	"successful": 1000,
+	"tiers": [
+		{
+			"dependency_depth_total": 545,
+			"face_transitions_total": 1495,
+			"initial_moves_total": 529,
+			"locks_total": 0,
+			"samples": 200,
+			"tier": "Beginner"
+		},
+		{
+			"dependency_depth_total": 819,
+			"face_transitions_total": 2654,
+			"initial_moves_total": 1012,
+			"locks_total": 200,
+			"samples": 200,
+			"tier": "Easy"
+		},
+		{
+			"dependency_depth_total": 1079,
+			"face_transitions_total": 4069,
+			"initial_moves_total": 1624,
+			"locks_total": 400,
+			"samples": 200,
+			"tier": "Medium"
+		},
+		{
+			"dependency_depth_total": 1257,
+			"face_transitions_total": 5745,
+			"initial_moves_total": 2391,
+			"locks_total": 600,
+			"samples": 200,
+			"tier": "Hard"
+		},
+		{
+			"dependency_depth_total": 1407,
+			"face_transitions_total": 7331,
+			"initial_moves_total": 3205,
+			"locks_total": 800,
+			"samples": 200,
+			"tier": "Expert"
+		}
+	],
+	"wall_time_sec": 78.08056,
+	"worst_solver_states": 44
+}
